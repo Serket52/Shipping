@@ -712,11 +712,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 1f113947-55c3-4e62-8927-295ab3a9a95d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: waves
+  organizationId: hitmandongo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
